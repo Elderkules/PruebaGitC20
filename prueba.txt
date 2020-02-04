@@ -13,6 +13,8 @@ public static void main(String[] args) {
               menor = menor;
             }      
         }
+
+System.out.println("Hola");
     }
     System.out.println(Arrays.toString(a));
 }
